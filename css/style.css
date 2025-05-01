@@ -1,0 +1,79 @@
+.logo {
+    text-transform: uppercase; /* Deixa o texto em letras maiúsculas */    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra leve ao texto */
+    text-decoration: none;
+    transition: color 0.3s ease, transform 0.3s ease; /* Adiciona uma transição suave */
+
+}
+
+.logo:hover {
+    color: #6A5ACD; /* Altera a cor ao passar o mouse */
+    transform: scale(1.1); /* Aumenta ligeiramente o tamanho */
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); /* Aumenta a sombra */
+}
+
+header{
+    position: fixed; /* Fixa o header no topo da página */
+    top: 0; /* Posiciona o header no topo */
+    left: 0; /* Alinha o header à esquerda */
+    width: 100%; /* Faz o header ocupar toda a largura da tela */
+    z-index: 1000; /* Garante que o header fique acima de outros elementos */
+    background-color: #cbbbff; /* Cor de fundo do header */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra para destaque */
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.2rem; /* Ajuste o valor conforme necessário */
+}
+
+/* :hover  Adiciona um efeito de transição suave ao passar o mouse */   
+.navbar-nav .nav-link:hover {
+    color: #6A5ACD; /* Altera a cor ao passar o mouse */
+    transform: scale(1.1); /* Adiciona sublinhado ao passar o mouse */
+}
+.footer {
+    background-color: #e9ecef; /* Cor de fundo do rodapé */
+    color: black; /* Cor do texto */
+    padding: 7px 0; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+    font-size: 1.0rem; /* Tamanho da fonte */
+    position: absolute; /* Footer no fluxo normal da página */
+    width: 100%; /* Faz o footer ocupar toda a largura da tela */
+    margin-top: auto; /* Empurra o footer para o final do conteúdo */
+    margin: 0; /* Remove margens extras */
+    left: 0; /* Garante alinhamento à esquerda */
+}
+
+.btn-custom {
+    background-color: #6A5ACD; /* Cor de fundo personalizada */
+    color: white; /* Cor do texto */
+    font-size: 1.2rem; /* Aumenta o tamanho do texto */
+    font-weight: bold; /* Deixa o texto em negrito */
+    padding: 10px 20px; /* Ajusta o espaçamento interno */
+    border: none; /* Remove a borda padrão */
+    border-radius: 8px; /* Adiciona bordas arredondadas */
+    transition: all 0.3s ease; /* Adiciona uma transição suave */
+    text-align: center; /* Centraliza o texto */
+    white-space: nowrap; /* Impede que o texto quebre */
+    width: 210px;
+}
+
+.btn-custom:hover {
+    background-color: #483D8B; /* Cor de fundo ao passar o mouse */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra */
+    color: #f8f9fa; /* Altera a cor do texto ao passar o mouse */
+}
+
+.btn-custom:focus, .btn-custom:active {
+    background-color: #5A4EB7; /* Cor ao clicar ou focar */
+    box-shadow: 0 0 0 0.2rem rgba(106, 90, 205, 0.5); /* Sombra ao focar */
+    outline: none; /* Remove o contorno padrão */
+}
+
+.headerHome{
+    margin-top:200px;
+}
+
+.card{
+    margin-top: 200px; /* Espaçamento superior */
+    margin-bottom: 200px; /* Espaçamento inferior */ 
+}
