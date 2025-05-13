@@ -22,16 +22,26 @@ header{
 }
 
 .navbar-nav .nav-link {
-    font-size: 1.2rem; /* Ajuste o valor conforme necessário */
+    font-size: 1.2rem;  
+}
+
+.navbar .container-fluid {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+}
+
+.navbar .logo {
+    margin-right: 15px; /* Espaçamento entre a logo e os links */
 }
 
 /* :hover  Adiciona um efeito de transição suave ao passar o mouse */   
 .navbar-nav .nav-link:hover {
-    color: #6A5ACD; /* Altera a cor ao passar o mouse */
+    color: #b45acd; /* Altera a cor ao passar o mouse */
     transform: scale(1.1); /* Adiciona sublinhado ao passar o mouse */
 }
 .footer {
-    background-color: #e9ecef; /* Cor de fundo do rodapé */
+    background-color: rgb(229, 200, 249);/* Cor de fundo do rodapé */
     color: black; /* Cor do texto */
     padding: 7px 0; /* Espaçamento interno */
     text-align: center; /* Centraliza o texto */
@@ -63,6 +73,8 @@ header{
     color: #f8f9fa; /* Altera a cor do texto ao passar o mouse */
 }
 
+
+
 .btn-custom:focus, .btn-custom:active {
     background-color: #5A4EB7; /* Cor ao clicar ou focar */
     box-shadow: 0 0 0 0.2rem rgba(106, 90, 205, 0.5); /* Sombra ao focar */
@@ -73,7 +85,55 @@ header{
     margin-top:200px;
 }
 
-.card{
-    margin-top: 200px; /* Espaçamento superior */
-    margin-bottom: 200px; /* Espaçamento inferior */ 
+.conteinterCard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+
+.card {
+    width: 15rem;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-top: 50px; /* Espaçamento superior */
+    margin-bottom: 50px; /* Espaçamento inferior */ 
+}
+.titleCard{
+    text-align: center;
+    font-weight: bold;
+}
+
+.infoVideo{
+    width: 850px; 
+    height: 550px;
+    margin: 30px auto;
+   margin-left: 250px;
+}
+
+.conteinerInfo{
+    margin-top: 500px;
+    align-items: center;
+}
+
+.infoTexto{
+    width: 10%;
+    padding: 50px; /* Adiciona espaçamento interno */
+    margin-left: auto;
+    box-sizing: border-box; /* Inclui o padding na largura total */
+    text-align: justify; /* Justifica o texto */
+    size: 50px;
+}
+
+.tituloTexto{
+    font-size: 4rem; /* Tamanho da fonte do título */
+    font-weight: bold; /* Deixa o título em negrito */
+    margin-left: 500px;
+}
+
+.containerTitulo{
+    display: flex;
+    flex-wrap: wrap;
 }

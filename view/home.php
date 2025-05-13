@@ -12,28 +12,25 @@
     
 <?php include '../includes/header.php'; ?>
 
-
-
 <div class="container-sm" style="margin-top:100px" >
     <div class="row justify-content-center text-center mt-5 mb-5">
-        <div class="col-sm-12">
-            <h1 aria-label="Bem-vindo ao Comunica+" >Bem-vindo ao Comunica+</h1>
-            <p aria-label="Promovendo inclusão, acessibilidade e conscientização sobre pessoas com deficiência na nossa sociedade." >
+        <div class="col-sm-12 d-flex flex-wrap justify-content-center align-items-center" >
+            <h1 style="margin-top:50px;" aria-label="Bem-vindo ao Comunica+" >Bem-vindo ao Comunica+</h1>
+            <img  src="../img/acessibilidade.png" alt="Logo do site" style="width: 300px; height: 300px; ">
+            <h5 aria-label="Promovendo inclusão, acessibilidade e conscientização sobre pessoas com deficiência na nossa sociedade." >
                 Promovendo inclusão, acessibilidade e conscientização sobre pessoas com deficiência na nossa sociedade.
-            </p>
+            </h5>
+
         </div>
     </div>
 
-    <div class="d-grid gap-2 justify-content-center mt-5 mb-5">
-        <a class="btn btn-primary justify-content-center btn-custom" href="#" role="button" aria-label="Explorar tópicos">Explorar tópicos  <i class="bi bi-arrow-right"></i> </a>
-    </div>
 
 </div>
 
 <div class="container">
   <div class="row">
   <h1 class="justify-content-center text-center mt-5 mb-5" aria-label="Sobre o projeto"> Sobre o projeto</h1>
-    <p aria-label="Este projeto tem como objetivo aumentar a conscientização sobre as pessoas com deficiência (PCDs)
+    <h5 aria-label="Este projeto tem como objetivo aumentar a conscientização sobre as pessoas com deficiência (PCDs)
     e promover uma sociedade mais inclusiva e acessível para todos.Acreditamos que a informação é o primeiro passo 
     para a inclusão. Através de conteúdo educativo, queremos desmistificar conceitos e promover o respeito à diversidade.
     Nosso compromisso é fornecer recursos valiosos tanto para PCDs quanto para pessoas que desejam aprender mais sobre 
@@ -42,7 +39,7 @@
     e promover uma sociedade mais inclusiva e acessível para todos.Acreditamos que a informação é o primeiro passo 
     para a inclusão. Através de conteúdo educativo, queremos desmistificar conceitos e promover o respeito à diversidade.
     Nosso compromisso é fornecer recursos valiosos tanto para PCDs quanto para pessoas que desejam aprender mais sobre 
-    como tornar nossa sociedade mais inclusiva.</p>
+    como tornar nossa sociedade mais inclusiva.</h5>
     <br>
     <br>
     <br>
@@ -55,6 +52,8 @@
 
 
 <?php include '../view/topicos.php'; ?> 
+
+<img  src="../img/desenvolvimento.avif" alt="Logo do site" style="margin-left: 450px;  margin-bottom:250px; margin-top:150px; alingn:center; ">
 <?php include '../includes/footer.php'; ?> 
 </body>
 </html>
