@@ -6,7 +6,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/style.css?v=1.0">
 </head>
 <body>
     
@@ -50,8 +49,8 @@
   </div>
 </div>
 
-
 <?php include '../view/topicos.php'; ?> 
+<?php include '../view/ajuda.php'; ?> 
 
 <img  src="../img/desenvolvimento.avif" alt="Logo do site" style="margin-left: 450px;  margin-bottom:250px; margin-top:150px; alingn:center; ">
 <?php include '../includes/footer.php'; ?> 

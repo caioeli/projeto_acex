@@ -1,3 +1,4 @@
+
 .logo {
     text-transform: uppercase; /* Deixa o texto em letras maiúsculas */    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra leve ao texto */
     text-decoration: none;
@@ -87,7 +88,6 @@ header{
 
 .conteinterCard {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     margin-left: 18px;
@@ -136,4 +136,9 @@ header{
 .containerTitulo{
     display: flex;
     flex-wrap: wrap;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
 }
