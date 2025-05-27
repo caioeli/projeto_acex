@@ -1,32 +1,41 @@
+<link rel="stylesheet" href="../css/style.css">
+  <?php include('../controller/mensagem.php'); ?>
 
 <h1 class="text-center my-4">Ajuda</h1>
-
-<div class="container mt-3 mx-auto" style="max-width: 300px;">
-  <div class="card shadow">
-    <div class="card-body">
+<div class="container mt-3 mx-auto" style="max-width: 500px;">
+  <div class="card shadow"style="width: 400px;">
+    <div class="card-body" style="width: 400px;">
       <h4 class="card-title mb-4 text-center">Fale Conosco</h4>
       <form>
         <div class="mb-3">
-          <label for="emailAjuda" class="form-label">Seu e-mail</label>
+          <label for="emailAjuda" nome="nome" class="form-label">Nome</label>
+          <input type="email" class="form-control" id="emailAjuda" placeholder="" required>
+        </div>
+        <div class="mb-3">
+          <label for="emailAjuda" nome="email" class="form-label">Seu e-mail</label>
           <input type="email" class="form-control" id="emailAjuda" placeholder="seuemail@exemplo.com" required>
         </div>
         <div class="mb-3">
-          <label for="mensagemAjuda" class="form-label">Sua mensagem</label>
+          <label for="emailAjuda" nome="contato" class="form-label">Contato</label>
+          <input type="telefone" class="form-control" id="emailAjuda" placeholder="" required>
+        </div>
+        <div class="mb-3">
+          <label for="mensagemAjuda" nome="mensagem" class="form-label">Sua mensagem</label>
           <textarea class="form-control" id="mensagemAjuda" rows="4" placeholder="Digite sua dúvida ou sugestão aqui..." required></textarea>
         </div>
         <div class="d-grid">
-          <button type="submit" class="btn btn-primary">Enviar</button>
+          <button type="submit" name= "enviar" class="btn btn-primary">Enviar</button>
         </div>
       </form>
     </div>
   </div>
 </div>
 
-<div class="accordion my-4" id="accordionExample" style="max-width: 600px; margin: 0 auto;">
+<div class="accordion my-4" id="accordion" style="max-width: 800px; margin: 0 auto;">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button fw-bold text-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        <i class="bi bi-question-circle me-2"></i> Como posso entrar em contato?
+        <i class="bi bi-question-circle me-2"></i>  
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
