@@ -1,9 +1,9 @@
 
 .logo {
-    text-transform: uppercase; /* Deixa o texto em letras maiúsculas */    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra leve ao texto */
+    text-transform: uppercase; /* Deixa o texto em letras maiúsculas */    
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra leve ao texto */
     text-decoration: none;
     transition: color 0.3s ease, transform 0.3s ease; /* Adiciona uma transição suave */
-
 }
 
 .logo:hover {
@@ -24,12 +24,6 @@ header{
 
 .navbar-nav .nav-link {
     font-size: 1.2rem;  
-}
-
-.navbar .container-fluid {
-    display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
 }
 
 .navbar .logo {
@@ -142,3 +136,33 @@ header{
 .carousel-control-next-icon {
     filter: invert(1);
 }
+
+.card-img-top{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;   /* Corta a imagem para preencher o espaço sem distorcer */
+}
+
+.carousel-indicators [data-bs-target] {
+   filter: invert(1);  
+}
+
+.dropdown-item {
+    background-color:rgb(168, 110, 207);/* Opcional: fundo roxo claro para contraste */
+    color: white;
+}
+
+.dropdown-menu {
+    background-color: rgb(168, 110, 207); /* Fundo branco */
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: white !important; /* Letras roxas ao passar o mouse */
+    background-color:  rgb(145, 66, 198); /* Fundo claro ao passar o mouse */
+}
+
+.nav-link.dropdown-toggle {
+    color: white !important;
+}
+
+
