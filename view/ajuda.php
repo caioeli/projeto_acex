@@ -2,34 +2,37 @@
   <?php include('../controller/mensagem.php'); ?>
 
 <h1 class="text-center my-4">Ajuda</h1>
-<div class="container mt-3 mx-auto" style="max-width: 500px;">
+<div class="container mt-3 mx-auto" style="max-width: 480px;">
   <div class="card shadow"style="width: 400px;">
     <div class="card-body" style="width: 400px;">
       <h4 class="card-title mb-4 text-center">Fale Conosco</h4>
-      <form>
+      <form action="../controller/acoes.php" method="POST">
         <div class="mb-3">
-          <label for="emailAjuda" nome="nome" class="form-label">Nome</label>
-          <input type="email" class="form-control" id="emailAjuda" placeholder="" required>
+          <label for="nomeAjuda" class="form-label">Nome</label>
+          <input type="text" name="nome" class="form-control" id="nomeAjuda" placeholder="" required>
         </div>
         <div class="mb-3">
-          <label for="emailAjuda" nome="email" class="form-label">Seu e-mail</label>
-          <input type="email" class="form-control" id="emailAjuda" placeholder="seuemail@exemplo.com" required>
+          <label for="emailAjuda"  class="form-label">Seu e-mail</label>
+          <input type="email" name="email" class="form-control" id="emailAjuda" placeholder="seuemail@exemplo.com" required>
         </div>
         <div class="mb-3">
-          <label for="emailAjuda" nome="contato" class="form-label">Contato</label>
-          <input type="telefone" class="form-control" id="emailAjuda" placeholder="" required>
+          <label for="contatoAjuda"  class="form-label">Contato</label>
+          <input type="tel"  name="contato" class="form-control" id="contatoAjuda" maxlength="15" placeholder="(99) 99999-9999" pattern="\(\d{2}\)\s?\d{4,5}-\d{4}" required>
         </div>
         <div class="mb-3">
-          <label for="mensagemAjuda" nome="mensagem" class="form-label">Sua mensagem</label>
-          <textarea class="form-control" id="mensagemAjuda" rows="4" placeholder="Digite sua dúvida ou sugestão aqui..." required></textarea>
+          <label for="mensagemAjuda"  class="form-label">Sua mensagem</label>
+          <textarea class="form-control" name="mensagem"  id="mensagemAjuda" rows="4" placeholder="Digite sua dúvida ou sugestão aqui..." required></textarea>
         </div>
         <div class="d-grid">
-          <button type="submit" name= "enviar" class="btn btn-primary">Enviar</button>
+          <button type="submit" name="enviar" class="btn btn-primary">Enviar</button>
         </div>
       </form>
     </div>
   </div>
 </div>
+
+
+<div class="loader"></div>
 
 <div class="accordion my-4" id="accordion" style="max-width: 800px; margin: 0 auto;">
   <div class="accordion-item">

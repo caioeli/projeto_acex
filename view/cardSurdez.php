@@ -1,4 +1,5 @@
-
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 <?php include '../includes/header.php'; ?> 
 <link rel="stylesheet" href="../css/style.css">
 
@@ -48,7 +49,7 @@
                 Reconheça e valorize a cultura surda, que possui sua própria língua, valores e tradições. 
             </p>
 
-            <p style="font-size: 18px;">
+            <text style="font-size: 18px;">
                 Respeitar essa identidade é essencial para promover uma inclusão genuína e significativa.
                 Promover a inclusão de pessoas surdas é uma responsabilidade coletiva que exige empatia, conhecimento e ações concretas. Ao compreender os desafios enfrentados por essa comunidade e adotar medidas para superá-los, contribuímos para uma sociedade mais justa e acessível para todos.
                 Cursos presenciais e online estão disponíveis e podem capacitar ouvintes a se comunicarem de forma mais eficiente com surdos.
