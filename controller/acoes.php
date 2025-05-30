@@ -2,21 +2,22 @@
 session_start();
 require 'conexao.php';
 if (isset($_POST['enviar'])) {
-	$nome = mysqli_real_escape_string($conexao, trim($_POST['nome']));
-	$email = mysqli_real_escape_string($conexao, trim($_POST['email']));
-	$contato = mysqli_real_escape_string($conexao, trim($_POST['email']));
-	$mensagem = mysqli_real_escape_string($conexao, trim($_POST['email']));
-	$senha = isset($_POST['senha']) ? mysqli_real_escape_string($conexao, password_hash(trim($_POST['senha']), PASSWORD_DEFAULT)) : '';
-	$sql = "INSERT INTO login (nome, email, contato, mensagem, senha) VALUES ('$nome', '$email', '$contato' , '$mensagem', '$senha')";
-	mysqli_query($conexao, $sql);
-	if (mysqli_affected_rows($conexao) > 0) {
-		$_SESSION['mensagem'] = 'email enviado com sucesso';
-		header('Location: ajuda.php');
-		exit;
-	} else {
-		$_SESSION['mensagem'] = 'email não enviado';
-		header('Location: ajuda.php');
-		exit;
-	}
+    $nome = mysqli_real_escape_string($conexao, trim($_POST['nome']));
+    $email = mysqli_real_escape_string($conexao, trim($_POST['email']));
+    $contato = mysqli_real_escape_string($conexao, trim($_POST['contato']));
+    $mensagem = mysqli_real_escape_string($conexao, trim($_POST['mensagem']));
+    // Ajuste o nome da tabela para 'faleconosco' se for o correto
+    $sql = "INSERT INTO faleconosco (nome, email, contato, mensagem) VALUES ('$nome', '$email', '$contato', '$mensagem')";
+    mysqli_query($conexao, $sql);
+    if (mysqli_affected_rows($conexao) > 0) {
+        require 'email.php';
+        $_SESSION['mensagem'] = 'E-mail enviado com sucesso!';
+        header('Location: ../view/home.php');
+        exit;
+    } else {
+        $_SESSION['mensagem'] = 'E-mail não enviado, tente novamente mais tarde.';
+        header('Location: ../view/home.php');
+        exit;
+    }
 }
 ?>
