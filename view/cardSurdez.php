@@ -1,7 +1,20 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 <?php include '../includes/header.php'; ?> 
+<?php include '../includes/onda.php'; ?>
 <link rel="stylesheet" href="../css/style.css">
+
+<style>
+.texto-acessivel {
+    font-size: 19px;
+    color: #333333;
+    line-height: 1.6;
+    max-width: 75ch;
+    margin: 0 auto 1em auto;
+    text-align: left;
+}
+</style>
+
 
 <div class="container-sm" style="margin-top:100px" >
     <div class="row justify-content-center text-center mt-5 mb-5">
@@ -18,49 +31,27 @@
 
         <iframe  class="infoVideo"  src="https://www.youtube.com/embed/fOVBoN_3ILA?si=psVZhMCPfPizOdvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             
-            <h2 style="margin:auto;  margin-bottom: 50px; margin-top: 50px;" >Surdez: Desafios e Caminhos para a Inclusão</h2>
+            <h2 style="margin:auto;  margin-bottom: 50px; margin-top: 50px;" > <b> Surdez: Desafios e Caminhos para a Inclusão </b> </h2>
 
-            <p style="font-size: 18px;">  
-                A surdez é uma condição que afeta milhões de brasileiros, impactando diretamente sua comunicação, acesso à informação e inclusão social. Apesar de avanços legislativos e tecnológicos, pessoas surdas ainda enfrentam diversos desafios em diferentes aspectos da vida.
+            <p class="texto-acessivel">  
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius ex non magna ornare pellentesque. Aenean sed pellentesque leo. Nunc quis arcu varius, auctor massa varius, imperdiet nisl. Sed ac pretium sem, id hendrerit enim. Etiam ligula lacus, fringilla facilisis egestas ornare, dictum vitae est. Etiam dolor neque, dapibus vel mollis nec, facilisis et nibh. Integer porta venenatis dolor eget egestas. Phasellus ultricies congue sagittis. Nam malesuada pharetra porta. Maecenas iaculis tellus non eleifend pretium.
 
-                A principal dificuldade para pessoas surdas é a comunicação com ouvintes. A maioria da população não domina a Língua Brasileira de Sinais (Libras), dificultando interações cotidianas. Além disso, muitos surdos têm o português como segunda língua, o que pode tornar a comunicação escrita um desafio adicional.
-
-                A falta de profissionais capacitados em Libras nas escolas e a escassez de materiais didáticos acessíveis comprometem a qualidade da educação para estudantes surdos. Isso pode resultar em defasagens no aprendizado e limitar oportunidades futuras.
-
-                Apesar de leis que incentivam a inclusão de pessoas com deficiência no mercado de trabalho, muitos surdos ainda enfrentam preconceito e falta de acessibilidade nos ambientes profissionais. A falta de oportunidades e o capacitismo são barreiras significativas.
-
-                A comunicação entre profissionais de saúde e pacientes surdos é frequentemente prejudicada pela ausência de intérpretes de Libras, levando a diagnósticos imprecisos e tratamentos inadequados.
-
-                A falta de legendas em filmes, ausência de intérpretes em eventos públicos e a escassez de conteúdos acessíveis limitam a participação de pessoas surdas em atividades culturais e sociais, contribuindo para o isolamento e a exclusão.
-
-                Investir no aprendizado da Língua Brasileira de Sinais é uma forma eficaz de promover a inclusão. 
-            </p>    
-
-            <p style="font-size: 18px;">   
-                Cursos presenciais e online estão disponíveis e podem capacitar ouvintes a se comunicarem de forma mais eficiente com surdos.
-
-                Ao se comunicar com uma pessoa surda, utilize gestos, expressões faciais e escrita para complementar a mensagem. Manter o contato visual e garantir que o ambiente esteja bem iluminado facilita a leitura labial e a compreensão.
-
-                Gritar não facilita a comunicação e pode ser interpretado como agressividade. Fale de forma clara, pausada e natural, sem exagerar na articulação das palavras.
-
-                Incentive a implementação de legendas em vídeos, a presença de intérpretes em eventos e a disponibilização de materiais acessíveis em locais públicos. Essas medidas ampliam o acesso à informação e à cultura para pessoas surdas.
-                Promova campanhas de sensibilização sobre a surdez e a importância da inclusão. Educar a sociedade sobre as necessidades e direitos das pessoas surdas é fundamental para combater o preconceito e promover a igualdade.
-                Incentive o uso de tecnologias que auxiliem na comunicação, como aplicativos de tradução de Libras, dispositivos de alerta visual e aparelhos auditivos, quando apropriado.
+                Phasellus nec nisl est. Aliquam ornare nibh erat, ac dapibus turpis maximus bibendum. Nullam sit amet vestibulum turpis, id vestibulum ante. Suspendisse facilisis, velit quis fringilla dapibus, sapien dui euismod purus, vel elementum velit neque et felis. Suspendisse consequat vel ipsum ac suscipit. Donec nec nisl massa. Vivamus nunc velit, faucibus sed ante ac, fringilla malesuada est. Duis consequat ullamcorper lobortis. Nunc sed turpis nec nibh feugiat gravida vitae ac tellus.
+        </p>    
+            <br>
+            <p  class="texto-acessivel">   
+                Vivamus purus nibh, dictum ultricies felis at, pharetra viverra leo. Duis quis urna malesuada, aliquet quam quis, lacinia tortor. Nunc ornare tortor ante. In eu ligula lobortis, condimentum odio nec, dignissim ex. Ut vestibulum quam ultrices mattis hendrerit. Aenean aliquam eu lectus ut tincidunt. Suspendisse cursus, mi non aliquet cursus, ligula ipsum rhoncus tortor, id pretium ex lacus a sapien. Nunc aliquam nibh vel velit auctor, id ultrices sapien lacinia. Curabitur euismod, nunc commodo porta vestibulum, arcu justo molestie lectus, vitae fermentum ligula dui id diam. Sed sollicitudin blandit laoreet. Nunc molestie justo in tristique accumsan. Phasellus dapibus, urna at sagittis hendrerit, lorem risus dictum velit, at venenatis ipsum odio ac diam. Praesent at molestie quam. Donec rhoncus orci orci, in dapibus urna accumsan vel. Nam vitae dui nec sem blandit fermentum. Morbi ligula magna, consectetur vitae imperdiet ac, mattis id erat.
                 Reconheça e valorize a cultura surda, que possui sua própria língua, valores e tradições. 
-            </p>
-
-            <text style="font-size: 18px;">
-                Respeitar essa identidade é essencial para promover uma inclusão genuína e significativa.
-                Promover a inclusão de pessoas surdas é uma responsabilidade coletiva que exige empatia, conhecimento e ações concretas. Ao compreender os desafios enfrentados por essa comunidade e adotar medidas para superá-los, contribuímos para uma sociedade mais justa e acessível para todos.
-                Cursos presenciais e online estão disponíveis e podem capacitar ouvintes a se comunicarem de forma mais eficiente com surdos.
-                Ao se comunicar com uma pessoa surda, utilize gestos, expressões faciais e escrita para complementar a mensagem. Manter o contato visual e garantir que o ambiente esteja bem iluminado facilita a leitura labial e a compreensão.
-                Gritar não facilita a comunicação e pode ser interpretado como agressividade. Fale de forma clara, pausada e natural, sem exagerar na articulação das palavras.
-               
+        </p>
+            <br>
+            <p class="texto-acessivel">
+            Vivamus elementum pellentesque cursus. Vestibulum non scelerisque sapien, at tempus purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis at rutrum metus, non rhoncus ex. Donec dignissim convallis massa, vel iaculis mi cursus vel. Vestibulum nec augue congue, hendrerit elit vitae, sagittis nisi. Praesent velit orci, gravida ac porttitor ut, consectetur non risus. Nulla sit amet interdum lacus. Praesent finibus dapibus augue, eu lobortis elit placerat et. Vivamus porttitor nibh eget nibh ultrices, eu ultricies risus luctus. Mauris sed bibendum neque. Proin venenatis ex nunc, vel ullamcorper neque sollicitudin ut. Donec eu blandit lorem.               
         </p>
 
             <br>
             <br>
-        <p style="font-size: 30px;">
+        <p style="font-size: 30px; margin-top:150px; text-align: center; color: #a86edf;">
+            <i class="bi bi-hand-thumbs-up-fill"></i>
             Obrigado por ver !
         </p>
     </div>

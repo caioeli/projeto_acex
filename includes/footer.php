@@ -6,17 +6,16 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/style.css?v=1.0">
-</head>
-<body>
+
 
 <div class="container-sm">
-    <footer class="footer">
-        <p>&copy; 2025 FSA - Todos os direitos reservados.</p>
-        <p>Desenvolvido por Caio, Rayza, Joyce, Eduardo e Cezar</p>
+    <footer class="footer py-3 text-center" style="font-size: 14px; background-color: #f8f9fa; color: #333333; border-top: 1px solid #e0e0e0;">
+        <p class="mb-1">&copy; 2025 FSA. Todos os direitos reservados.</p>
+            Desenvolvido por <strong>Grupo ACEX</strong><br>
+            <span style="font-size: 14px;">Este projeto não possui fins financeiros.</span>
+        </p>
     </footer>
 </div>
     
-</body>
-</html>
 
 
