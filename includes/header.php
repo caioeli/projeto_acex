@@ -19,7 +19,9 @@ require '../controller/conexao.php';
   <nav class="navbar navbar-expand-lg navbar-light" style="background-color:rgb(168, 110, 207);">
     
     <div class="container-fluid">
-        <img href="/projeto_acex/view/home.php" src="../img/logo.png" alt="Logo do site" style="margin-right: 10px; width: 100px; height: 45px;">
+      <a href="../view/home.php">
+        <img src="../img/logo.png" alt="Logo do site" class="imsHeader">
+      </a>      
        <button class="navbar-toggler"  type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span href="" class="navbar-toggler-icon"></span>
       </button>
@@ -27,14 +29,14 @@ require '../controller/conexao.php';
       <div class="collapse navbar-collapse justify-content-end" id="navbarText">
         <ul class="navbar-nav mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link"  style="color:white;" href="/projeto_acex/view/home.php">Homeeee</a>
+            <a class="nav-link"  style="color:white;" href="/projeto_acex/view/home.php">Home</a>
           </li>
        <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
            Tópicos
           </a>
           <ul class="dropdown-menu dropdown-menu" aria-labelledby="navbarDarkDropdownMenuLink">
-            <li><a class="dropdown-item" href="#"> Surdez</a></li>
+            <li><a class="dropdown-item" href="/projeto_acex/view/cardSurdez.php"> Surdez</a></li>
             <li><a class="dropdown-item" href="#"> Sidrome de donw</a></li>
             <li><a class="dropdown-item" href="#"> PCDs</a></li>
             <li><a class="dropdown-item" href="#"> 4 Rodas </a></li>

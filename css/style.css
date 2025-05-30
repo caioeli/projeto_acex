@@ -1,15 +1,12 @@
 
-.logo {
-    text-transform: uppercase; /* Deixa o texto em letras maiúsculas */    
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra leve ao texto */
-    text-decoration: none;
-    transition: color 0.3s ease, transform 0.3s ease; /* Adiciona uma transição suave */
+.imsHeader{
+  margin-right: 10px;
+    width: 100px;
+    height: 45px;
 }
 
-.logo:hover {
-    color: #6A5ACD; /* Altera a cor ao passar o mouse */
+.imsHeader:hover{
     transform: scale(1.1); /* Aumenta ligeiramente o tamanho */
-    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); /* Aumenta a sombra */
 }
 
 header{
@@ -36,7 +33,7 @@ header{
     transform: scale(1.1); /* Adiciona sublinhado ao passar o mouse */
 }
 .footer {
-    background-color: rgb(229, 200, 249);/* Cor de fundo do rodapé */
+    background-color: rgb(244, 230, 255);/* Cor de fundo do rodapé */
     color: black; /* Cor do texto */
     padding: 7px 0; /* Espaçamento interno */
     text-align: center; /* Centraliza o texto */
@@ -46,6 +43,7 @@ header{
     margin-top: auto; /* Empurra o footer para o final do conteúdo */
     margin: 0; /* Remove margens extras */
     left: 0; /* Garante alinhamento à esquerda */
+    z-index: 10
 }
 
 .btn-custom {
@@ -165,13 +163,30 @@ header{
     color: white !important;
 }
 
-/* HTML: <div class="loader"></div> */
+.loader-overlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.3); /* fundo escuro semi-transparente */
+    z-index: 9999;
+    justify-content: center;
+    align-items: center;
+}
+
+
 .loader {
-  width: 50px;
-  aspect-ratio: 1;
-  border-radius: 50%;
-  border: 8px solid #514b82;
-  animation:
+    position: fixed;  
+    top: 50%;
+    margin: 0%;
+    left: 50%;
+    width: 80px;
+    z-index: auto;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    border: 8px solid #514b82;
+    animation:
     l20-1 0.8s infinite linear alternate,
     l20-2 1.6s infinite linear;
 }
@@ -189,4 +204,14 @@ header{
   49.99%{transform:scaleY(1)  rotate(135deg)}
   50%   {transform:scaleY(-1) rotate(0deg)}
   100%  {transform:scaleY(-1) rotate(-135deg)}
+}
+
+.onda-esquerda {
+    position: fixed;
+    width:170px ;
+    left: 0;
+    top: 0;
+    height: 100vh;      /* altura total da tela */
+    z-index: 1;         /* atrás do conteúdo principal */
+    pointer-events: none; /* não bloqueia cliques */
 }
