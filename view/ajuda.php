@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="../css/style.css">
+<script src="../js/scripts.js"></script>
 <?php include('../controller/mensagem.php'); ?>
 
 <h1 class="text-center my-4">Ajuda</h1>
@@ -31,11 +32,7 @@
   </div>
 </div>
 
-<script>
-function chamarLoader() {
-  document.querySelector('.loader-overlay').style.display = 'flex';
-}
-</script>
+
 
 
 

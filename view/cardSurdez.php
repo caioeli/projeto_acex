@@ -31,25 +31,44 @@
 
         <iframe  class="infoVideo"  src="https://www.youtube.com/embed/fOVBoN_3ILA?si=psVZhMCPfPizOdvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             
-            <h2 style="margin:auto;  margin-bottom: 50px; margin-top: 50px;" > <b> Surdez: Desafios e Caminhos para a Inclusão </b> </h2>
+            <h2 style="margin:auto;  text-align: center; margin-bottom: 50px; margin-top: 50px;" > <b> Surdez: Desafios e Caminhos para a Inclusão </b> </h2>
 
             <p class="texto-acessivel">  
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius ex non magna ornare pellentesque. Aenean sed pellentesque leo. Nunc quis arcu varius, auctor massa varius, imperdiet nisl. Sed ac pretium sem, id hendrerit enim. Etiam ligula lacus, fringilla facilisis egestas ornare, dictum vitae est. Etiam dolor neque, dapibus vel mollis nec, facilisis et nibh. Integer porta venenatis dolor eget egestas. Phasellus ultricies congue sagittis. Nam malesuada pharetra porta. Maecenas iaculis tellus non eleifend pretium.
+                A surdez é uma condição que pode ser parcial (quando a pessoa ainda ouve alguns sons) ou total. Pode ser congênita ou adquirida ao longo da vida. A principal diferença entre pessoas ouvintes e surdas não está na capacidade de aprender ou se comunicar, mas na forma como isso acontece.
 
-                Phasellus nec nisl est. Aliquam ornare nibh erat, ac dapibus turpis maximus bibendum. Nullam sit amet vestibulum turpis, id vestibulum ante. Suspendisse facilisis, velit quis fringilla dapibus, sapien dui euismod purus, vel elementum velit neque et felis. Suspendisse consequat vel ipsum ac suscipit. Donec nec nisl massa. Vivamus nunc velit, faucibus sed ante ac, fringilla malesuada est. Duis consequat ullamcorper lobortis. Nunc sed turpis nec nibh feugiat gravida vitae ac tellus.
-        </p>    
+                Muitas pessoas surdas utilizam a Língua Brasileira de Sinais (Libras), que é uma língua completa, com gramática própria, estrutura e expressões. A Libras é reconhecida oficialmente no Brasil desde 2002, mas ainda é pouco ensinada nas escolas e pouco usada em serviços públicos, o que gera exclusão.
+
+                Pessoas surdas podem ou não optar por utilizar aparelhos auditivos ou implantes cocleares. Cada pessoa tem o direito de escolher sua forma de se comunicar, seja por Libras, leitura labial, fala ou escrita. O importante é que a escolha seja respeitada — e não imposta.
+
+                Um dos maiores obstáculos para a inclusão das pessoas surdas é a falta de acessibilidade na comunicação. Filmes, vídeos, aulas e eventos muitas vezes não contam com intérpretes de Libras ou legendas. Isso impede o acesso à informação e à cultura, violando direitos básicos.
+
+                Outro aspecto importante é reconhecer a identidade surda. A comunidade surda possui uma cultura própria, com manifestações artísticas, literatura, poesia em Libras, e uma visão de mundo que vai além da audição. Enxergar a surdez como parte da diversidade humana é essencial para combater o capacitismo.
+
+                O respeito à diferença começa com a escuta — mesmo que essa escuta seja com os olhos e com o coração. A comunicação é uma ponte que pode ser construída por todos, quando há vontade de incluir.
+        </p>   
+         
             <br>
             <p  class="texto-acessivel">   
-                Vivamus purus nibh, dictum ultricies felis at, pharetra viverra leo. Duis quis urna malesuada, aliquet quam quis, lacinia tortor. Nunc ornare tortor ante. In eu ligula lobortis, condimentum odio nec, dignissim ex. Ut vestibulum quam ultrices mattis hendrerit. Aenean aliquam eu lectus ut tincidunt. Suspendisse cursus, mi non aliquet cursus, ligula ipsum rhoncus tortor, id pretium ex lacus a sapien. Nunc aliquam nibh vel velit auctor, id ultrices sapien lacinia. Curabitur euismod, nunc commodo porta vestibulum, arcu justo molestie lectus, vitae fermentum ligula dui id diam. Sed sollicitudin blandit laoreet. Nunc molestie justo in tristique accumsan. Phasellus dapibus, urna at sagittis hendrerit, lorem risus dictum velit, at venenatis ipsum odio ac diam. Praesent at molestie quam. Donec rhoncus orci orci, in dapibus urna accumsan vel. Nam vitae dui nec sem blandit fermentum. Morbi ligula magna, consectetur vitae imperdiet ac, mattis id erat.
-                Reconheça e valorize a cultura surda, que possui sua própria língua, valores e tradições. 
+                Cada pessoa tem o direito de escolher sua forma de se comunicar, seja por Libras, leitura labial, fala ou escrita. O importante é que a escolha seja respeitada — e não imposta.
+
+                Um dos maiores obstáculos para a inclusão das pessoas surdas é a falta de acessibilidade na comunicação. Filmes, vídeos, aulas e eventos muitas vezes não contam com intérpretes de Libras ou legendas. Isso impede o acesso à informação e à cultura, violando direitos básicos.
+
+                Outro aspecto importante é reconhecer a identidade surda. 
+        </p>
+
+            <br>
+
         </p>
             <br>
             <p class="texto-acessivel">
-            Vivamus elementum pellentesque cursus. Vestibulum non scelerisque sapien, at tempus purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis at rutrum metus, non rhoncus ex. Donec dignissim convallis massa, vel iaculis mi cursus vel. Vestibulum nec augue congue, hendrerit elit vitae, sagittis nisi. Praesent velit orci, gravida ac porttitor ut, consectetur non risus. Nulla sit amet interdum lacus. Praesent finibus dapibus augue, eu lobortis elit placerat et. Vivamus porttitor nibh eget nibh ultrices, eu ultricies risus luctus. Mauris sed bibendum neque. Proin venenatis ex nunc, vel ullamcorper neque sollicitudin ut. Donec eu blandit lorem.               
-        </p>
+                A comunidade surda possui uma cultura própria, com manifestações artísticas, literatura, poesia em Libras, e uma visão de mundo que vai além da audição. Enxergar a surdez como parte da diversidade humana é essencial para combater o capacitismo.
+
+                O respeito à diferença começa com a escuta — mesmo que essa escuta seja com os olhos e com o coração. A comunicação é uma ponte que pode ser construída por todos, quando há vontade de incluir.        
+            </p>
 
             <br>
             <br>
+
         <p style="font-size: 30px; margin-top:150px; text-align: center; color: #a86edf;">
             <i class="bi bi-hand-thumbs-up-fill"></i>
             Obrigado por ver !

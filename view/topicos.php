@@ -11,7 +11,6 @@
     <button type="button" data-bs-target="#carouselTopicos" data-bs-slide-to="2" aria-label="Slide 3"></button>
     <button type="button" data-bs-target="#carouselTopicos" data-bs-slide-to="3" aria-label="Slide 4"></button>
     <button type="button" data-bs-target="#carouselTopicos" data-bs-slide-to="4" aria-label="Slide 5"></button>
-    <button type="button" data-bs-target="#carouselTopicos" data-bs-slide-to="5" aria-label="Slide 5"></button>
   </div>
 
   <div class="carousel-inner" id="carouselTopicos">
@@ -19,7 +18,7 @@
   <div class="carousel-item active" >
     <div class="d-flex justify-content-center">    
       <div class="card" style="width: 50rem;">
-        <img src="../img/down.png" class="card-img-top" alt="...">
+        <img src="../img/surdo.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Surdez</h5>
           <p class="card-text">Surdez é a perda da audição, mas não da capacidade de se comunicar e viver plenamente.</p>
@@ -32,11 +31,38 @@
   <div class="carousel-item ">
     <div class="d-flex justify-content-center">
       <div class="card" style="width: 50rem;">
-        <img src="../img/surdo.jpg" class="card-img-top" alt="...">
+        <img src="../img/down.png " class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Surdez</h5>
-          <p class="card-text">Surdez é a perda da audição, mas não da capacidade de se comunicar e viver plenamente.</p>
+          <h5 class="card-title">Sidrome de down</h5>
+          <p class="card-text">Mais Semelhanças do que Diferenças</p>
+          <a href="/projeto_acex/view/cardDown.php" class="btn btn-primary">Ver mais</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="carousel-item" >
+    <div class="d-flex justify-content-center">
+      <div class="card" style="width: 50rem;">
+        <img  src="../img/autismo.webp" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Autismo</h5>
+          <p class="card-text">Um Jeito Único de Ver o Mundo.</p>
           <a href="/projeto_acex/view/cardSurdez.php" class="btn btn-primary">Ver mais</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="carousel-item" >
+    <div class="d-flex justify-content-center">
+      <div class="card" style="width: 50rem;">
+        <img src="../img/cego.webp" class="card-img-top " alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Cegueira</h5>
+          <p class="card-text">Enxergar com Outros Sentidos</p>
+          <a href="/projeto_acex/view/cardCegueira.php" class="btn btn-primary">Ver mais</a>
         </div>
       </div>
     </div>
@@ -47,53 +73,14 @@
       <div class="card" style="width: 50rem;">
         <img  src="../img/cadeirante.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Surdez</h5>
-          <p class="card-text">Surdez é a perda da audição, mas não da capacidade de se comunicar e viver plenamente.</p>
-          <a href="/projeto_acex/view/cardSurdez.php" class="btn btn-primary">Ver mais</a>
+          <h5 class="card-title">Cadeirantes</h5>
+          <p class="card-text">Mobilidade Não Define Capacidade</p>
+          <a href="/projeto_acex/view/cardCadeirantes.php" class="btn btn-primary">Ver mais</a>
         </div>
       </div>
     </div>
   </div>
-
-  <div class="carousel-item" >
-    <div class="d-flex justify-content-center">
-      <div class="card" style="width: 50rem;">
-        <img  src="../img/autismo.webp" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Surdez</h5>
-          <p class="card-text">Surdez é a perda da audição, mas não da capacidade de se comunicar e viver plenamente.</p>
-          <a href="/projeto_acex/view/cardSurdez.php" class="btn btn-primary">Ver mais</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="carousel-item" >
-    <div class="d-flex justify-content-center">
-      <div class="card" style="width: 50rem;">
-        <img src="../img/cego.webp" class="card-img-top " alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Surdez</h5>
-          <p class="card-text">Surdez é a perda da audição, mas não da capacidade de se comunicar e viver plenamente.</p>
-          <a href="/projeto_acex/view/cardSurdez.php" class="btn btn-primary">Ver mais</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-    <div class="carousel-item" >
-    <div class="d-flex justify-content-center">
-      <div class="card" style="width: 50rem;">
-        <img src="../img/cego.webp" class="card-img-top " alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Surdez</h5>
-          <p class="card-text">Surdez é a perda da audição, mas não da capacidade de se comunicar e viver plenamente.</p>
-          <a href="/projeto_acex/view/cardSurdez.php" class="btn btn-primary">Ver mais</a>
-        </div>
-      </div>
-    </div>
-  </div>
-    
+  
 </div>
 
 <button class="carousel-control-prev" type="button" data-bs-target="#carouselTopicos" data-bs-slide="prev">
