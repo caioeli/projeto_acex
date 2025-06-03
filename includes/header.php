@@ -37,10 +37,10 @@ require '../controller/conexao.php';
           </a>
           <ul class="dropdown-menu dropdown-menu" aria-labelledby="navbarDarkDropdownMenuLink">
             <li><a class="dropdown-item" href="/projeto_acex/view/cardSurdez.php"> Surdez</a></li>
-            <li><a class="dropdown-item" href="#"> Sidrome de donw</a></li>
-            <li><a class="dropdown-item" href="#"> PCDs</a></li>
-            <li><a class="dropdown-item" href="#"> 4 Rodas </a></li>
-            <li><a class="dropdown-item" href="#"> Cegueta</a></li>
+            <li><a class="dropdown-item" href="/projeto_acex/view/cardAutismo.php">Autismo </a></li>
+            <li><a class="dropdown-item" href="/projeto_acex/view/cardCadeirantes.php"> Cadeirantes</a></li>
+            <li><a class="dropdown-item" href="/projeto_acex/view/cardCegueira.php"> Cegueira </a></li>
+            <li><a class="dropdown-item" href="/projeto_acex/view/cardDown.php"> Síndrome de Down</a></li>
           </ul>
         </li>
           <li class="nav-item">
