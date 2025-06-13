@@ -32,14 +32,15 @@
             <h2 style="margin:auto;  text-align: center; margin-bottom: 50px; margin-top: 50px;" > <b> Enxergar com Outros Sentidos</b> </h2>
 
         <p class="texto-acessivel">  
-               Pessoas cegas ou com baixa visão vivem em um mundo onde a percepção visual é substituída — ou complementada — por outros sentidos, como a audição e o tato. Isso não significa que tenham menos capacidade ou inteligência. Ao contrário, muitas desenvolvem formas criativas e eficientes de perceber o ambiente, se comunicar e viver com autonomia.
-        </p>   
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet diam id nunc gravida fringilla at a justo. Nulla eget rhoncus turpis, a tempor tellus. Phasellus libero elit, cursus ac commodo ut, scelerisque ut erat. In semper ipsum eu suscipit suscipit. Integer viverra erat est, vel lacinia mi viverra ut. Morbi eget est egestas diam fermentum aliquam. Nullam a luctus est. Quisque vel lectus id metus convallis consequat at in lectus. Sed iaculis ex lectus, non imperdiet purus venenatis eget. Nunc neque mi, dignissim ut dui non, vestibulum venenatis augue. Vivamus non ultricies diam.
+
+Sed vel dui dictum, pharetra purus a, aliquet odio. In nec arcu et nunc interdum semper. Quisque sagittis ante sed leo congue, vitae auctor tellus hendrerit. Curabitur tincidunt, mauris sed lacinia dictum, orci ligula ornare magna, at porta augue nunc nec erat. Suspendisse potenti. Curabitur dapibus feugiat tortor laoreet malesuada. Quisque dignissim tortor a mauris consectetur, id gravida turpis sagittis. Etiam ullamcorper consequat urna, finibus ultrices mi elementum vel. Mauris ullamcorper egestas porta. Donec in consequat nibh. Quisque elementum ultricies malesuada. Praesent mattis ut nulla in sollicitudin. Vestibulum aliquet massa quis massa gravida, vitae porttitor ipsum pharetra. Nullam accumsan a metus ac tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam imperdiet lectus eros, eu eleifend lorem iaculis id.        </p>   
          
             <br>
             <p  class="texto-acessivel">   
-                A cegueira pode ser congênita ou adquirida, total ou parcial. Algumas pessoas usam bengalas brancas para identificar obstáculos, outras contam com cães-guia ou aplicativos acessíveis. Além disso, o sistema braile permite a leitura e escrita através do tato, sendo uma ferramenta importante para a alfabetização e inclusão.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet diam id nunc gravida fringilla at a justo. Nulla eget rhoncus turpis, a tempor tellus. Phasellus libero elit, cursus ac commodo ut, scelerisque ut erat. In semper ipsum eu suscipit suscipit. Integer viverra erat est, vel lacinia mi viverra ut. Morbi eget est egestas diam fermentum aliquam. Nullam a luctus est. Quisque vel lectus id metus convallis consequat at in lectus. Sed iaculis ex lectus, non imperdiet purus venenatis eget. Nunc neque mi, dignissim ut dui non, vestibulum venenatis augue. Vivamus non ultricies diam.
 
-                A tecnologia também tem sido uma grande aliada, com softwares leitores de tela, audiolivros e dispositivos com comandos de voz. Porém, a maior barreira ainda é a social: a exclusão, a falta de acessibilidade nos espaços e a desinformação.
+Sed vel dui dictum, pharetra purus a, aliquet odio. In nec arcu et nunc interdum semper. Quisque sagittis ante sed leo congue, vitae auctor tellus hendrerit. Curabitur tincidunt, mauris sed lacinia dictum, orci ligula ornare magna, at porta augue nunc nec erat. Suspendisse potenti. Curabitur dapibus feugiat tortor laoreet malesuada. Quisque dignissim tortor a mauris consectetur, id gravida turpis sagittis. Etiam ullamcorper consequat urna, finibus ultrices mi elementum vel. Mauris ullamcorper egestas porta. Donec in consequat nibh. Quisque elementum ultricies malesuada. Praesent mattis ut nulla in sollicitudin. Vestibulum aliquet massa quis massa gravida, vitae porttitor ipsum pharetra. Nullam accumsan a metus ac tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam imperdiet lectus eros, eu eleifend lorem iaculis id.
         </p>
 
             <br>
@@ -47,8 +48,9 @@
         </p>
             <br>
             <p class="texto-acessivel">
-                É importante tratar a pessoa cega com naturalidade, oferecer ajuda quando necessário, mas sempre perguntando antes. A autonomia é algo que deve ser respeitado. A inclusão acontece quando deixamos de ver a deficiência como limitação e passamos a enxergar o potencial de cada indivíduo.            </p>
-            <br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet diam id nunc gravida fringilla at a justo. Nulla eget rhoncus turpis, a tempor tellus. Phasellus libero elit, cursus ac commodo ut, scelerisque ut erat. In semper ipsum eu suscipit suscipit. Integer viverra erat est, vel lacinia mi viverra ut. Morbi eget est egestas diam fermentum aliquam. Nullam a luctus est. Quisque vel lectus id metus convallis consequat at in lectus. Sed iaculis ex lectus, non imperdiet purus venenatis eget. Nunc neque mi, dignissim ut dui non, vestibulum venenatis augue. Vivamus non ultricies diam.
+
+Sed vel dui dictum, pharetra purus a, aliquet odio. In nec arcu et nunc interdum semper. Quisque sagittis ante sed leo congue, vitae auctor tellus hendrerit. Curabitur tincidunt, mauris sed lacinia dictum, orci ligula ornare magna, at porta augue nunc nec erat. Suspendisse potenti. Curabitur dapibus feugiat tortor laoreet malesuada. Quisque dignissim tortor a mauris consectetur, id gravida turpis sagittis. Etiam ullamcorper consequat urna, finibus ultrices mi elementum vel. Mauris ullamcorper egestas porta. Donec in consequat nibh. Quisque elementum ultricies malesuada. Praesent mattis ut nulla in sollicitudin. Vestibulum aliquet massa quis massa gravida, vitae porttitor ipsum pharetra. Nullam accumsan a metus ac tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam imperdiet lectus eros, eu eleifend lorem iaculis id.            <br>
             <br>
 
         <p style="font-size: 30px; margin-top:150px; text-align: center; color: #a86edf;">

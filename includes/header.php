@@ -44,7 +44,7 @@ require '../controller/conexao.php';
           </ul>
         </li>
           <li class="nav-item">
-            <a  class="nav-link" style="color:white;" href="#">Ajuda</a>
+            <a  class="nav-link" style="color:white;" href="/projeto_acex/view/home.php#ajuda">Ajuda</a>
           </li>
         </ul>
       </div>

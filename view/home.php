@@ -48,7 +48,9 @@
 </div>
 
 <?php include '../view/topicos.php'; ?> 
-<?php include '../view/ajuda.php'; ?> 
+<div id="ajuda">
+  <?php include '../view/ajuda.php'; ?>
+</div>
 <?php include '../includes/footer.php'; ?> 
 
 </body>
