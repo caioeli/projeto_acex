@@ -32,14 +32,16 @@
             <h2 style="margin:auto;  text-align: center; margin-bottom: 50px; margin-top: 50px;" > <b> Mais Semelhanças do que Diferenças </b> </h2>
 
             <p class="texto-acessivel">  
-              A síndrome de Down é uma condição genética causada pela presença de um cromossomo a mais — o cromossomo 21. Isso pode afetar o desenvolvimento físico e intelectual da pessoa, mas não determina suas capacidades, desejos ou sonhos. Crianças, jovens e adultos com síndrome de Down podem estudar, trabalhar, namorar, praticar esportes e muito mais.
-        </p>   
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet diam id nunc gravida fringilla at a justo. Nulla eget rhoncus turpis, a tempor tellus. Phasellus libero elit, cursus ac commodo ut, scelerisque ut erat. In semper ipsum eu suscipit suscipit. Integer viverra erat est, vel lacinia mi viverra ut. Morbi eget est egestas diam fermentum aliquam. Nullam a luctus est. Quisque vel lectus id metus convallis consequat at in lectus. Sed iaculis ex lectus, non imperdiet purus venenatis eget. Nunc neque mi, dignissim ut dui non, vestibulum venenatis augue. Vivamus non ultricies diam.
+
+Sed vel dui dictum, pharetra purus a, aliquet odio. In nec arcu et nunc interdum semper. Quisque sagittis ante sed leo congue, vitae auctor tellus hendrerit. Curabitur tincidunt, mauris sed lacinia dictum, orci ligula ornare magna, at porta augue nunc nec erat. Suspendisse potenti. Curabitur dapibus feugiat tortor laoreet malesuada. Quisque dignissim tortor a mauris consectetur, id gravida turpis sagittis. Etiam ullamcorper consequat urna, finibus ultrices mi elementum vel. Mauris ullamcorper egestas porta. Donec in consequat nibh. Quisque elementum ultricies malesuada. Praesent mattis ut nulla in sollicitudin. Vestibulum aliquet massa quis massa gravida, vitae porttitor ipsum pharetra. Nullam accumsan a metus ac tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam imperdiet lectus eros, eu eleifend lorem iaculis id.        </p>   
          
             <br>
             <p  class="texto-acessivel">   
-                Durante muito tempo, a sociedade acreditou que pessoas com síndrome de Down deveriam ser protegidas em excesso ou que não seriam capazes de aprender. Hoje, sabemos que, com estímulo adequado desde a infância, elas podem alcançar grande autonomia e qualidade de vida.
+               
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet diam id nunc gravida fringilla at a justo. Nulla eget rhoncus turpis, a tempor tellus. Phasellus libero elit, cursus ac commodo ut, scelerisque ut erat. In semper ipsum eu suscipit suscipit. Integer viverra erat est, vel lacinia mi viverra ut. Morbi eget est egestas diam fermentum aliquam. Nullam a luctus est. Quisque vel lectus id metus convallis consequat at in lectus. Sed iaculis ex lectus, non imperdiet purus venenatis eget. Nunc neque mi, dignissim ut dui non, vestibulum venenatis augue. Vivamus non ultricies diam.
 
-                É fundamental oferecer oportunidades, adaptar métodos de ensino quando necessário e, principalmente, acolher com respeito. O que mais atrasa o desenvolvimento não é a condição em si, mas o preconceito e a exclusão social.
+Sed vel dui dictum, pharetra purus a, aliquet odio. In nec arcu et nunc interdum semper. Quisque sagittis ante sed leo congue, vitae auctor tellus hendrerit. Curabitur tincidunt, mauris sed lacinia dictum, orci ligula ornare magna, at porta augue nunc nec erat. Suspendisse potenti. Curabitur dapibus feugiat tortor laoreet malesuada. Quisque dignissim tortor a mauris consectetur, id gravida turpis sagittis. Etiam ullamcorper consequat urna, finibus ultrices mi elementum vel. Mauris ullamcorper egestas porta. Donec in consequat nibh. Quisque elementum ultricies malesuada. Praesent mattis ut nulla in sollicitudin. Vestibulum aliquet massa quis massa gravida, vitae porttitor ipsum pharetra. Nullam accumsan a metus ac tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam imperdiet lectus eros, eu eleifend lorem iaculis id.
         </p>
 
             <br>
@@ -47,8 +49,10 @@
         </p>
             <br>
             <p class="texto-acessivel">
-                É preciso enxergar a pessoa antes da síndrome. Cada ser humano é único, com sentimentos, talentos e dificuldades. Celebrar as diferenças é um ato de humanidade. E quando olhamos com empatia, percebemos que temos muito mais em comum do que imaginamos.
-            </p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet diam id nunc gravida fringilla at a justo. Nulla eget rhoncus turpis, a tempor tellus. Phasellus libero elit, cursus ac commodo ut, scelerisque ut erat. In semper ipsum eu suscipit suscipit. Integer viverra erat est, vel lacinia mi viverra ut. Morbi eget est egestas diam fermentum aliquam. Nullam a luctus est. Quisque vel lectus id metus convallis consequat at in lectus. Sed iaculis ex lectus, non imperdiet purus venenatis eget. Nunc neque mi, dignissim ut dui non, vestibulum venenatis augue. Vivamus non ultricies diam.
+
+Sed vel dui dictum, pharetra purus a, aliquet odio. In nec arcu et nunc interdum semper. Quisque sagittis ante sed leo congue, vitae auctor tellus hendrerit. Curabitur tincidunt, mauris sed lacinia dictum, orci ligula ornare magna, at porta augue nunc nec erat. Suspendisse potenti. Curabitur dapibus feugiat tortor laoreet malesuada. Quisque dignissim tortor a mauris consectetur, id gravida turpis sagittis. Etiam ullamcorper consequat urna, finibus ultrices mi elementum vel. Mauris ullamcorper egestas porta. Donec in consequat nibh. Quisque elementum ultricies malesuada. Praesent mattis ut nulla in sollicitudin. Vestibulum aliquet massa quis massa gravida, vitae porttitor ipsum pharetra. Nullam accumsan a metus ac tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam imperdiet lectus eros, eu eleifend lorem iaculis id.
+        </p>
             <br>
             <br>
         <p style="font-size: 30px; margin-top:150px; text-align: center; color: #a86edf;">

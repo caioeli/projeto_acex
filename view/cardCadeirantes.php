@@ -34,13 +34,14 @@
 
             <p class="texto-acessivel">  
                
-            Pessoas cadeirantes são aquelas que utilizam cadeiras de rodas para se locomover, seja por conta de uma deficiência física, uma doença ou uma lesão. Isso, porém, não define quem elas são, muito menos o que são capazes de fazer. Cadeirantes podem ser atletas, professores, artistas, estudantes, pais, líderes — exatamente como qualquer outra pessoa.        </p>   
-         
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet diam id nunc gravida fringilla at a justo. Nulla eget rhoncus turpis, a tempor tellus. Phasellus libero elit, cursus ac commodo ut, scelerisque ut erat. In semper ipsum eu suscipit suscipit. Integer viverra erat est, vel lacinia mi viverra ut. Morbi eget est egestas diam fermentum aliquam. Nullam a luctus est. Quisque vel lectus id metus convallis consequat at in lectus. Sed iaculis ex lectus, non imperdiet purus venenatis eget. Nunc neque mi, dignissim ut dui non, vestibulum venenatis augue. Vivamus non ultricies diam.
+
+Sed vel dui dictum, pharetra purus a, aliquet odio. In nec arcu et nunc interdum semper. Quisque sagittis ante sed leo congue, vitae auctor tellus hendrerit. Curabitur tincidunt, mauris sed lacinia dictum, orci ligula ornare magna, at porta augue nunc nec erat. Suspendisse potenti. Curabitur dapibus feugiat tortor laoreet malesuada. Quisque dignissim tortor a mauris consectetur, id gravida turpis sagittis. Etiam ullamcorper consequat urna, finibus ultrices mi elementum vel. Mauris ullamcorper egestas porta. Donec in consequat nibh. Quisque elementum ultricies malesuada. Praesent mattis ut nulla in sollicitudin. Vestibulum aliquet massa quis massa gravida, vitae porttitor ipsum pharetra. Nullam accumsan a metus ac tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam imperdiet lectus eros, eu eleifend lorem iaculis id.         
             <br>
             <p  class="texto-acessivel">   
-                A sociedade, infelizmente, ainda impõe muitas barreiras à sua participação. Escadas sem rampas, calçadas irregulares, banheiros não adaptados e falta de acessibilidade no transporte público são apenas alguns dos obstáculos que dificultam sua autonomia. O problema não está na cadeira de rodas, mas na falta de estrutura inclusiva.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet diam id nunc gravida fringilla at a justo. Nulla eget rhoncus turpis, a tempor tellus. Phasellus libero elit, cursus ac commodo ut, scelerisque ut erat. In semper ipsum eu suscipit suscipit. Integer viverra erat est, vel lacinia mi viverra ut. Morbi eget est egestas diam fermentum aliquam. Nullam a luctus est. Quisque vel lectus id metus convallis consequat at in lectus. Sed iaculis ex lectus, non imperdiet purus venenatis eget. Nunc neque mi, dignissim ut dui non, vestibulum venenatis augue. Vivamus non ultricies diam.
 
-                Mais do que adaptar espaços físicos, é essencial mudar atitudes. Não devemos olhar para a pessoa cadeirante com pena, nem supervalorizar ações cotidianas como “exemplo de superação”. Elas merecem respeito, oportunidades e autonomia.
+Sed vel dui dictum, pharetra purus a, aliquet odio. In nec arcu et nunc interdum semper. Quisque sagittis ante sed leo congue, vitae auctor tellus hendrerit. Curabitur tincidunt, mauris sed lacinia dictum, orci ligula ornare magna, at porta augue nunc nec erat. Suspendisse potenti. Curabitur dapibus feugiat tortor laoreet malesuada. Quisque dignissim tortor a mauris consectetur, id gravida turpis sagittis. Etiam ullamcorper consequat urna, finibus ultrices mi elementum vel. Mauris ullamcorper egestas porta. Donec in consequat nibh. Quisque elementum ultricies malesuada. Praesent mattis ut nulla in sollicitudin. Vestibulum aliquet massa quis massa gravida, vitae porttitor ipsum pharetra. Nullam accumsan a metus ac tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam imperdiet lectus eros, eu eleifend lorem iaculis id.
          
         </p>
 
@@ -49,8 +50,9 @@
         </p>
             <br>
             <p class="texto-acessivel">     
-                É fundamental também escutá-las e envolvê-las nas decisões que afetam sua vida. Ninguém entende melhor suas necessidades do que elas mesmas. Uma sociedade justa é aquela que se adapta para acolher todos os seus cidadãos, com ou sem deficiência.            </p>
-            <br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet diam id nunc gravida fringilla at a justo. Nulla eget rhoncus turpis, a tempor tellus. Phasellus libero elit, cursus ac commodo ut, scelerisque ut erat. In semper ipsum eu suscipit suscipit. Integer viverra erat est, vel lacinia mi viverra ut. Morbi eget est egestas diam fermentum aliquam. Nullam a luctus est. Quisque vel lectus id metus convallis consequat at in lectus. Sed iaculis ex lectus, non imperdiet purus venenatis eget. Nunc neque mi, dignissim ut dui non, vestibulum venenatis augue. Vivamus non ultricies diam.
+
+Sed vel dui dictum, pharetra purus a, aliquet odio. In nec arcu et nunc interdum semper. Quisque sagittis ante sed leo congue, vitae auctor tellus hendrerit. Curabitur tincidunt, mauris sed lacinia dictum, orci ligula ornare magna, at porta augue nunc nec erat. Suspendisse potenti. Curabitur dapibus feugiat tortor laoreet malesuada. Quisque dignissim tortor a mauris consectetur, id gravida turpis sagittis. Etiam ullamcorper consequat urna, finibus ultrices mi elementum vel. Mauris ullamcorper egestas porta. Donec in consequat nibh. Quisque elementum ultricies malesuada. Praesent mattis ut nulla in sollicitudin. Vestibulum aliquet massa quis massa gravida, vitae porttitor ipsum pharetra. Nullam accumsan a metus ac tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam imperdiet lectus eros, eu eleifend lorem iaculis id.            <br>
             <br>
 
         <p style="font-size: 30px; margin-top:150px; text-align: center; color: #a86edf;">
